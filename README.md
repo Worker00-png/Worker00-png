@@ -8,20 +8,20 @@
   <img src="https://img.shields.io/badge/Role-Web%20Developer-4B5563?style=flat-square&labelColor=1F2937" alt="Role" />
 </p>
 
----
-
 ### 🧑‍💻 About me
 
-```yaml
-name: fen1k
-role: Web Developer
-location: Russia
-skills:
-  - HTML
-  - CSS
-  - Python
-currently: Building something cool on the web
-
-<p align="center">
-<img width="400" height="400" alt="доброе-утро" src="https://github.com/user-attachments/assets/86d7ff41-e0c3-4859-845f-04d0b0a64c34" />
-</p>
+<table>
+  <tr>
+    <td bgcolor="#1F2937">
+      <br>
+      <p align="left">
+        &nbsp;<code>┌─[ fen1k@github ]</code><br>
+        &nbsp;<code>├─ role&nbsp;&nbsp;&nbsp;: Web Developer</code><br>
+        &nbsp;<code>├─ stack&nbsp;&nbsp;: HTML · CSS · Python</code><br>
+        &nbsp;<code>├─ focus&nbsp;&nbsp;: responsive & clean UI</code><br>
+        &nbsp;<code>└─ status : building & learning 🚀</code>
+      </p>
+      <br>
+    </td>
+  </tr>
+</table>
